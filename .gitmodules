@@ -1,0 +1,3 @@
+[submodule "writing_GNURadio_blocks_python"]
+	path = writing_GNURadio_blocks_python
+	url = git@github.com:TheWylieStCoyote/writing_GNURadio_blocks_python.git
